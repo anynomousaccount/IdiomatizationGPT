@@ -1,4 +1,4 @@
-# Idiomatization_GPT
+# Idiomatizing Code with Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models
 
 1). code/ours/:
     
